@@ -7,3 +7,7 @@ Things you will learn - How to write a well explained Editorial, writing an edit
 
 How This repository will help ?
 
+DP Atcoder Problems are very nice for the begineers to practice DP. This contest contains all types of DP Probems.
+
+If anyone stuck anywhere they can take help from here and solve the problem.
+
